@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python & JS Project<br>🤝 I would appreciate any help on any of my projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Programming or anything in general<br>📫 You can reach me at navinkarthikeyan12@gmail.com<br>👾 Add me Discord : "Crown#3388"
+🔭 I’m currently working on Python & JS Project<br>🤝 I would appreciate any help on any of my projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Programming or anything in general<br>📫 You can reach me at navinkarthikeyan12@gmail.com
 
 
 ## 🌐 Socials:
